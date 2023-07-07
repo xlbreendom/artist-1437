@@ -8,16 +8,16 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #FFD700;
+      background-color: #FFFFFF;
     }
     header {
-      background-color: #000;
+      background-color: #add8e6;
       color: #fff;
       padding: 20px;
       text-align: center;
     }
     nav {
-      background-color: #000;
+      background-color: #b0cddf;
       color: #fff;
       padding: 10px;
     }
@@ -48,7 +48,7 @@
       height: auto;
     }
     footer {
-      background-color: #000;
+      background-color: #e66b00;
       color: #fff;
       padding: 10px;
       text-align: center;
