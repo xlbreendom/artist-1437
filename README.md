@@ -19,7 +19,7 @@
     }
     nav {
       background-color: #b0cddf;
-      color: #fff;
+      color: #000000;
       padding: 10px;
     }
     nav ul {
@@ -69,9 +69,9 @@
     </ul>
   </nav>
   <main>
-    <h2 style="color: blue;">Art Gallery</h2>
+    <h2 style="color: #000000;">Art Gallery</h2>
     <p>Here you will find amazing artwork created by me.</p>
-    <h3 style="color: black;">artist1437</h3>
+    <h3 style="color: #808080;">artist1437</h3>
     <div class="gallery">
       <img src="artist.jpeg" alt="my art">
     </div>
