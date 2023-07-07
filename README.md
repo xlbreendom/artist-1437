@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+
 <html>
 <head>
-  <title>My arts website</title>
+  <title>Dreamy Creations</title>
   <style>
     /* Estilos CSS */
     body {
@@ -76,7 +77,7 @@
     </div>
   </main>
   <footer>
-    <p>&copy; 2023 BRENDOM. Todos os direitos reservados.</p>
+    <p>&copy; Copyright 2023  BRENDOM. Todos os direitos reservados.</p>
   </footer>
 </body>
 </html>
