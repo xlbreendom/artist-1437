@@ -76,7 +76,7 @@
   </nav>
   <main>
     <div class="artwork-image">
-      <img src="artist" alt="Obra de Arte">
+      <img src="artist.jpeg" alt="Obra de Arte">
     </div>
     <div class="artwork-info">
       <h2>Obra de Arte Valiosa</h2>
