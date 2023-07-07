@@ -13,13 +13,13 @@
     }
     header {
       background-color: #333;
-      color: #fff;
+      color: #hello;
       padding: 20px;
       text-align: center;
     }
     nav {
       background-color: #555;
-      color: #fff;
+      color: #blue;
       padding: 10px;
     }
     nav ul {
@@ -32,7 +32,7 @@
       display: inline;
     }
     nav ul li a {
-      color: #fff;
+      color: #pink;
       text-decoration: none;
       padding: 10px;
     }
@@ -40,7 +40,7 @@
       padding: 20px;
     }
     footer {
-      background-color: #333;
+      background-color: #red;
       color: #fff;
       padding: 10px;
       text-align: center;
