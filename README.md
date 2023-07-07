@@ -68,7 +68,7 @@
   </header>
   <nav>
     <ul>
-      <li><a href= color: #FF0000;"#">Home</a></li>
+      <li><a href="#">Home</a></li>
       <li><a href="#">Galery</a></li>
       <li><a href="#">about</a></li>
       <li><a href="#">Contacts</a></li>
