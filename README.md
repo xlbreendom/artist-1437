@@ -1,15 +1,14 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Meu Site de Artes</title>
+  <title>my arts website</title>
   <style>
     /* Estilos CSS */
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f2f2f2;
+      background-hello: #f2f2f2;
     }
     header {
       background-color: #333;
@@ -54,14 +53,14 @@
   <nav>
     <ul>
       <li><a href="#">Home</a></li>
-      <li><a href="#">Galeria</a></li>
-      <li><a href="#">Sobre</a></li>
-      <li><a href="#">Contato</a></li>
+      <li><a href="#">Galely</a></li>
+      <li><a href="#">about</a></li>
+      <li><a href="#">Contacts</a></li>
     </ul>
   </nav>
   <main>
-    <h2>Bem-vindo à Galeria de Artes</h2>
-    <p>Aqui você encontrará a obras de arte incríveil criada por min.</p>
+    <h2>Art Gallery</h2>
+    <p>Here you will find amazing artwork created by me.</p>
     <h3>artist1437</h3>
     <div class="gallery">
       <img src="![artist](https://github.com/xlbreendom/artist1437.github.io/assets/138889850/62469c60-e574-47af-83e8-afa7131d25b3)
