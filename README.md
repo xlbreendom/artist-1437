@@ -12,13 +12,13 @@
       background-color: #FFFFFF;
     }
     header {
-      background-color: #add8e6;
+      background-color: #1E90FF;
       color: #fff;
       padding: 20px;
       text-align: center;
     }
     nav {
-      background-color: #b0cddf;
+      background-color: #87CEFA;
       color: #000000;
       padding: 10px;
     }
@@ -38,7 +38,7 @@
     }
     main {
       padding: 20px;
-      color: #000;
+      color: #FF0000;
     }
     .gallery {
       display: flex;
@@ -49,7 +49,7 @@
       height: auto;
     }
     footer {
-      background-color: #e66b00;
+      background-color: #1E90FF;
       color: #fff;
       padding: 10px;
       text-align: center;
