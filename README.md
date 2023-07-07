@@ -68,7 +68,7 @@
   </header>
   <nav>
     <ul>
-      <li><a href="#">Home</a></li>
+      <li><a href= color: #FF0000;"#">Home</a></li>
       <li><a href="#">Galery</a></li>
       <li><a href="#">about</a></li>
       <li><a href="#">Contacts</a></li>
@@ -82,7 +82,7 @@
       <h2>de </h2>
       <p>Here's Incredible Artwork Worth Millions of Dollars.</p>
       <div class="artwork-description">
-        <h3>Descrição:</h3>
+        <h3>description:</h3>
         <p>A long time ago, in the ancient era of humanity, Earth was visited by divine beings who came from the constellation Sirius. These luminous beings were led by 𒂗𒁉𒂊 and 𒊩𒉺𒊑𒁉 𒀭𒈹 𒀀𒈠, whose names were spoken with respect and reverence.
 
 𒂗𒁉𒂊 and 𒊩𒉺𒊑𒁉 𒀭𒈹 𒀀𒈠 were wise and compassionate leaders chosen from among their celestial people to guide humanity on its evolutionary journey. They landed on Earth in the year 11,257 BC, at the hidden base located at coordinates 77.214670, -87.843056 and 81.513553, -87.494567, on the Arctic continent.
