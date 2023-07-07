@@ -8,7 +8,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f2f2f2;
+      background-color: #FFD700;
     }
     header {
       background-color: #000;
@@ -76,7 +76,7 @@
     </div>
   </main>
   <footer>
-    <p>&copy; 2023 Meu Site de Artes. Todos os direitos reservados.</p>
+    <p>&copy; 2023 BRENDOM. Todos os direitos reservados.</p>
   </footer>
 </body>
 </html>
