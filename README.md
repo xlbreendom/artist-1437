@@ -72,7 +72,7 @@
     <p>Here you will find amazing artwork created by me.</p>
     <h3 style="color: black;">artist1437</h3>
     <div class="gallery">
-      <img src="!blob:https://web.whatsapp.com/cf9becc4-3dd2-483a-8b5a-72b901bc6331" alt="Obra de Arte 1">
+      <img src="artist.jpeg" alt="my art">
     </div>
   </main>
   <footer>
